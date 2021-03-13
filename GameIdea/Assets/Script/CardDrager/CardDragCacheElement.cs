@@ -51,6 +51,7 @@ public class CardDragCacheElement : UIBehaviour
 
     public void setOffsetY(float yoffset)
     {
+
         float movey = _CtanZ * yoffset;
         this._rotateTran.localPosition = new Vector3(0, movey, 0);
     }
