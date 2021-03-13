@@ -22,6 +22,11 @@
 # Visual Studio cache directory
 .vs/
 
+GameIdea/Library
+GameIdea/Logs
+GameIdea/obj
+GameIdea/Temp
+GameIdea/ProjectSettings
 # Gradle cache directory
 .gradle/
 
