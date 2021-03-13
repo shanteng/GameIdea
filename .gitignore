@@ -26,7 +26,7 @@ GameIdea/Library
 GameIdea/Logs
 GameIdea/obj
 GameIdea/Temp
-GameIdea/ProjectSettings
+
 # Gradle cache directory
 .gradle/
 
