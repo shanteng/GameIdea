@@ -68,6 +68,7 @@
     <Compile Include="Assets\Script\CardDrager\CardDrager.cs" />
     <Compile Include="Assets\Script\CardDrager\TitleAttribute.cs" />
     <Compile Include="Assets\Script\UI\EasyListView.cs" />
+    <Compile Include="Assets\Script\UI\LuaMonoView.cs" />
     <Compile Include="Assets\Script\UI\xUIControlMonoButton.cs" />
     <Compile Include="Assets\Script\UI\xUIControlMonoDynamicImage.cs" />
     <Compile Include="Assets\Script\UI\xUIControlMonoLabel.cs" />
